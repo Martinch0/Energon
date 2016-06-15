@@ -2,7 +2,7 @@ An infinite runner game. The goal of the game is to collect Energon spheres that
 
 The game was created in Unity 5 as part of the second round of the Search For A Star competition. I was given a very simple and basic template of a game and my task was to make the game fun, add features and realease the game as a Universal Windows Platform App to the Windows Store in two weeks.
 
-All scripts were written in C# and I was responsible for the gameplay, as well as the user interface of the game. The 3D ship model as well as the icons in the user interface are free assets. The Energon spheres are made of a simple sphere combined with a custom GLSL shader in order to create the "electric" effect and modify the colors of the spheres during runtime. Another HLSL shader was created for the player's ship, which displays the current and next target colors.
+All scripts were written in C# and I was responsible for the gameplay, as well as the user interface of the game. The 3D ship model as well as the icons in the user interface are free assets. The Energon spheres are made of a simple sphere combined with a custom GLSL shader in order to create the "electric" effect and modify the colors of the spheres during runtime. Another GLSL shader was created for the player's ship, which displays the current and next target colors.
 
 The game also has an Online Leaderboard, which was implemented as a REST Server written in Node.js.
 
