@@ -1,0 +1,10 @@
+For .NET 2 and above reference
+Polenter.SharpSerializer.dll
+
+For Silverlight 3 and above reference the
+Polenter.SharpSerializer.Silverlight.dll
+
+For Windows Phone 7 and above, Windows RT (Metro), Xbox 360 reference the 
+Polenter.SharpSerializer.Portable.dll
+
+
